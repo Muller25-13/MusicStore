@@ -57,7 +57,6 @@ D:\MusicStore\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.WebPages.Deploy
 D:\MusicStore\MvcMusicStore\MvcMusicStore\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 D:\MusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
 D:\MusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
-D:\MusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
 D:\MusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
 D:\MusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.dll
 D:\MusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
