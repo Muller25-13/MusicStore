@@ -61,3 +61,4 @@ D:\MusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
 D:\MusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.dll
 D:\MusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
 D:\MusicStore\MvcMusicStore\MvcMusicStore\bin\EntityFramework.SqlServer.xml
+D:\MusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
