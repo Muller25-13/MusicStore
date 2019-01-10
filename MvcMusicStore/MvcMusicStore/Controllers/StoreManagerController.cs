@@ -89,8 +89,7 @@ namespace MvcMusicStore.Controllers
         }
 
         // POST: StoreManager/Delete/5
-        [HttpPost, ActionName("Delete")]
-        
+        [HttpPost, ActionName("Delete")]       
         public ActionResult DeleteConfirmed(int id)
         {
             Album album = db.Albums.Find(id);
